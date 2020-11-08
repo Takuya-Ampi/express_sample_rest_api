@@ -1,6 +1,6 @@
 # express_sample_rest_api
 
-# 環境構築手順(init後はenter連打  
+# 環境構築手順(init後はenter連打)  
 $ npm init 
 
 # 必要パッケージインストール 
