@@ -4,8 +4,10 @@
 $ npm init 
 
 # 必要パッケージインストール 
-$ npm install mongoose --save 
-$ npm install --save-dev nodemon 
+$ npm install mongoose --save  
+
+$ npm install --save-dev nodemon  
+
 $ npm install express --save 
 
 # APIの起動
